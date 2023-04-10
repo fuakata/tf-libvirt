@@ -1,0 +1,17 @@
+# Local .terraform directories and files
+**/.terraform
+**/.terraform.lock.hcl
+**/.terraform.tfstate.lock.info
+
+# .tfstate file
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+
+# Other files
+**/*.yaml
+**/*.cfg
+**/*.img
+**/*.qcow2
+**/*.bak
+**/*.old
